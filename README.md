@@ -3,7 +3,7 @@ Making predictions of New York City Taxis' trip duration using Machine Learning 
 Team : ISMGH Hatim, OUHEB Massinissa, MAFTOUL Omar. <br/>
 
 # Usage : 
-1- Donwload Train and Test sets from : https://www.kaggle.com/c/nyc-taxi-trip-duration/data <br/>
+1- Download Train and Test sets from : https://www.kaggle.com/c/nyc-taxi-trip-duration/data <br/>
 2- Include these files in your environement (Google Colab, Anaconda, Jupyter ...) <br/>
 3- Install Required packages (Pandas, Scikit Learn, Geopandas, Numpy) <br/>
 4- Download NYC Maps from https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm <br/>
