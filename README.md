@@ -1,6 +1,6 @@
 # NYC_Kaggle_Challenge
 Making predictions of New York City Taxis' trip duration using Machine Learning (Challenge Provided by Kaggle). <br/>
-Team : ISMGH Hatim, OUHEB Massinissa, MAFTOUL Omar. <br/>
+Team :**ISMGH** Hatim, **OUHEB** Massinissa, **MAFTOUL** Omar. <br/>
 
 # Usage : 
 1- Download Train and Test sets from : https://www.kaggle.com/c/nyc-taxi-trip-duration/data <br/>
@@ -16,6 +16,6 @@ While searching for the ideal combinations of hyperparameters in the RandomFores
 https://colab.research.google.com/ (Google colab) may be the best environement to execute your code without harming your machine's memory.
 
 # Our Best Scores based on public score : 
-SVR : 0.534529, Better than 33.5 % of competitors  <br/>
-Linear Regression : 0.52138, Better than 35 % of competitors <br/>
-Random Forest Regressor : 0.40647, Better than 59 % of competitors. 
+**SVR : 0.534529**, Better than **33.5 %** of competitors  <br/>
+**Linear Regression : 0.52138**, Better than **35 %** of competitors <br/>
+**Random Forest Regressor : 0.40647**, Better than **59 %** of competitors. 
