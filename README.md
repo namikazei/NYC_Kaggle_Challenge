@@ -10,5 +10,5 @@ Team : ISMGH Hatim, OUHEB Massinissa, MAFTOUL Omar.
 6- Launch and run IPYNB Notebooks.<br/>
 7- Main file is used only for Linear Regression Notebook and the Extended Notebook.
 # Advice for intensive usage :
-While searching for the ideal combinations of hyperparameters in the RandomForestRegressor algorithm (or any other algorithm), you may use Scikit-Learn's CrossValidation algorithm, it may took longer time to execute in a modest machine, consequently, 
-https://colab.research.google.com/ (Google colab) may be the best environement for this execution without harming your machine's memory.
+While searching for the ideal combinations of hyperparameters in the RandomForestRegressor algorithm (or any other algorithm), you may use Scikit-Learn's CrossValidation algorithm, it may took longer time to execute in a normal machine, consequently, 
+https://colab.research.google.com/ (Google colab) may be the best environement to execute your code without harming your machine's memory.
