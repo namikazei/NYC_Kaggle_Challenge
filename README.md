@@ -6,7 +6,7 @@ Team : ISMGH Hatim, OUHEB Massinissa, MAFTOUL Omar.
 2- Include these files in your environement (Google Colab, Anaconda, Jupyter ...) <br/>
 3- Install Required packages (Pandas, Scikit Learn, Geopandas, Numpy) <br/>
 4- Download NYC Maps from https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm <br/>
-5- Export Mpas as shp (shape files, you must include are related files in single directory) <br/>
+5- Export Maps as shp (shape files, you must include are related files in single directory) <br/>
 6- Launch and run IPYNB Notebooks.<br/>
 7- Main file is used only for Linear Regression Notebook and the Extended Notebook.
 # Advice for intensive usage :
