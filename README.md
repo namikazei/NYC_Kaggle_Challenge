@@ -6,5 +6,5 @@ Team : ISMGH Hatim, OUHEB Massinissa, MAFTOUL Omar.
 2- Include these files in your environement (Google Colab, Anaconda, Jupyter ...) <br/>
 3- Install Required packages (Pandas, Scikit Learn, Geopandas, Numpy) <br/>
 4- Launch and run IPYNB Notebooks.<br/>
-5- Main file is used only for Linear Regression and Extended Notebooks.
+5- Main file is used only for Linear Regression Notebook and the Extended Notebook.
 
