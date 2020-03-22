@@ -1,6 +1,6 @@
 # NYC_Kaggle_Challenge
 Making predictions of New York City Taxis' trip duration using Machine Learning (Challenge Provided by Kaggle). <br/>
-Team :**ISMGH** Hatim, **OUHEB** Massinissa, **MAFTOUL** Omar. <br/>
+Team : **ISMGH Hatim, OUHEB Massinissa, MAFTOUL Omar**. <br/>
 
 # Usage : 
 1- Download Train and Test sets from : https://www.kaggle.com/c/nyc-taxi-trip-duration/data <br/>
